@@ -1,0 +1,2 @@
+If value 1 = hide, hud is hidden
+If value 1 = unhide, hud is unhidden (duh)
